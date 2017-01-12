@@ -73,7 +73,7 @@ body {
   top: 10em;
 }
 
-.polaroid:nth-child(1):hover, .polaroid:nth-child(2):hover, .polaroid:nth-child(3):hover {
+.polaroid:hover, .polaroid:nth-child(2):hover, .polaroid:nth-child(3):hover {
   z-index: 11;
   transform: rotate(0deg);
   box-shadow: 4px 12px 18px rgba(0, 0, 0, .8);
